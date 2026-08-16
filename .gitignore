@@ -1,1 +1,15 @@
+settings.local.json
+.env
+node_modules
+logs
+*.log
+*.log.*
+*.log.*.*
+*.log.*.*.*
+*.log.*.*.*.*
+*.log.*.*.*.*.*
+*.log.*.*.*.*.*.*
+*.log.*.*.*.*.*.*.*
+*.log.*.*.*.*.*.*.*.*
+*.log.*.*.*.*.*.*.*.*.*
 .DS_Store
